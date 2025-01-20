@@ -65,6 +65,7 @@ function App() {
                 <span className="px-3 py-1 bg-blue-500/20 rounded-full text-sm">MERN</span>
                 <span className="px-3 py-1 bg-blue-500/20 rounded-full text-sm">Python</span>
               </div>
+              <a href='https://github.com/kavyaPerepu19/Saanjh'>Source link</a>
             </div>
             <div className="bg-gray-700/30 p-6 rounded-lg hover:bg-gray-700/50 transition-all">
               <h3 className="text-xl font-semibold mb-4">ProBot</h3>
@@ -74,6 +75,7 @@ function App() {
                 <span className="px-3 py-1 bg-purple-500/20 rounded-full text-sm">Flask</span>
                 <span className="px-3 py-1 bg-purple-500/20 rounded-full text-sm">MERN</span>
               </div>
+              <a href='https://github.com/kavyaPerepu19/reviewbot'>Source link</a>
             </div>
             <div className="bg-gray-700/30 p-6 rounded-lg hover:bg-gray-700/50 transition-all">
               <h3 className="text-xl font-semibold mb-4">Blockchain Real Estate Marketplace</h3>
@@ -83,6 +85,7 @@ function App() {
                 <span className="px-3 py-1 bg-green-500/20 rounded-full text-sm">MERN</span>
                 <span className="px-3 py-1 bg-green-500/20 rounded-full text-sm">Polygon</span>
               </div>
+              <a href='https://github.com/ProjectG62/BlockChainG62'>Source link</a>
             </div>
           </div>
         </div>
