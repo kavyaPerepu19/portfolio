@@ -3,6 +3,7 @@ import { Github, Linkedin, Mail, ExternalLink, BookOpen, Award, Briefcase, Gradu
 
 function App() {
   return (
+    <div>
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white">
       {/* Header/Hero Section */}
       <header className="container mx-auto px-4 py-20 flex flex-col items-center text-center">
@@ -14,13 +15,13 @@ function App() {
           <a href="mailto:perepukavyasri@gmail.com" className="hover:text-blue-400 transition-colors">
             <Mail className="w-6 h-6" />
           </a>
-          <a href="#" className="hover:text-blue-400 transition-colors">
+          <a href="https://www.linkedin.com/in/kavya-perepu-b545ba26b/" className="hover:text-blue-400 transition-colors">
             <Linkedin className="w-6 h-6" />
           </a>
-          <a href="#" className="hover:text-blue-400 transition-colors">
+          <a href="https://github.com/kavyaPerepu19" className="hover:text-blue-400 transition-colors">
             <Github className="w-6 h-6" />
           </a>
-          <a href="#" className="hover:text-blue-400 transition-colors">
+          <a href="https://leetcode.com/u/perepukavyasri/" className="hover:text-blue-400 transition-colors">
             <BookOpen className="w-6 h-6" />
           </a>
         </div>
@@ -147,6 +148,7 @@ function App() {
       <footer className="py-8 text-center text-gray-400">
         <p>© 2024 Perepu Krishna Kavya Sri. All rights reserved.</p>
       </footer>
+    </div>
     </div>
   );
 }
