@@ -76,6 +76,7 @@ function App() {
                 <span className="px-3 py-1 bg-purple-500/20 rounded-full text-sm">MERN</span>
               </div>
               <a href='https://github.com/kavyaPerepu19/reviewbot' className="my-1 px-3 py-1 bg-purple-500/20 rounded-full text-sm">Source link</a>
+              <a href='https://reviewbot.vercel.app/' className="my-1 px-3 py-1 bg-purple-500/20 rounded-full text-sm">Source link</a>
             </div>
             <div className="bg-gray-700/30 p-6 rounded-lg hover:bg-gray-700/50 transition-all">
               <h3 className="text-xl font-semibold mb-4">Blockchain Real Estate Marketplace</h3>
